@@ -1,4 +1,4 @@
-# FSD path checker (`fsd-architecture-check`)
+# FSD path checker (`path-check`)
 
 Please describe the origin of the rule here.
 
