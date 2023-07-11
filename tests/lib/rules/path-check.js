@@ -17,7 +17,7 @@ const rule = require("../../../lib/rules/path-check"),
 //------------------------------------------------------------------------------
 
 const ruleTester = new RuleTester({parserOptions: {ecmaVersion: 6, sourceType: 'module'}});
-ruleTester.run("fsd-architecture-check", rule, {
+ruleTester.run("path-check", rule, {
   valid: [
     {
       filename: '\\home\\germans\\react\\react-production-app\\src\\pages\\ArticleDetailsPage\\ui\\ArticleDetailsPage',
