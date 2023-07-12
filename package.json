@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fsd-architecture-check",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "Eslint plugin for FSD architecture",
   "keywords": [
     "eslint",
