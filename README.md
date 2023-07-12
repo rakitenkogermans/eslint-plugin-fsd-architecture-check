@@ -42,7 +42,13 @@ Then configure the rules you want to use under the rules section.
 ## Rules
 
 <!-- begin auto-generated rules list -->
-TODO: Run eslint-doc-generator to generate the rules list.
+
+| Name                                                   | Description      |
+| :----------------------------------------------------- | :--------------- |
+| [layer-imports](docs/rules/layer-imports.md)           | Description      |
+| [path-check](docs/rules/path-check.md)                 | FSD path checker |
+| [public-api-imports](docs/rules/public-api-imports.md) | Description      |
+
 <!-- end auto-generated rules list -->
 
 

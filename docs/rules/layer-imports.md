@@ -1,4 +1,6 @@
-# Description (`layer-imports`)
+# Description (`fsd-architecture-check/layer-imports`)
+
+<!-- end auto-generated rule header -->
 
 Please describe the origin of the rule here.
 

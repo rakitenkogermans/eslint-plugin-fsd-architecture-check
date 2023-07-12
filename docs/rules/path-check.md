@@ -1,4 +1,6 @@
-# FSD path checker (`path-check`)
+# FSD path checker (`fsd-architecture-check/path-check`)
+
+<!-- end auto-generated rule header -->
 
 Please describe the origin of the rule here.
 

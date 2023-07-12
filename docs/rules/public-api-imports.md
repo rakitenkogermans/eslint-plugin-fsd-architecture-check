@@ -1,4 +1,6 @@
-# Description (`public-api-imports`)
+# Description (`fsd-architecture-check/public-api-imports`)
+
+<!-- end auto-generated rule header -->
 
 Please describe the origin of the rule here.
 
